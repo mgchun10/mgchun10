@@ -17,7 +17,7 @@ I'm also preparing to apply for **Master’s in Computer Science** programs with
 ## 📬 Get In Touch
 
 I'm open to internship or research opportunities in **AI/ML**, **software engineering**, and **data science**.  
-You can reach me at Email | mgchun2001@gmail.com <be>, LinkedIn | [www.linkedin.com/in/mgchun10](https://www.linkedin.com/in/mgchun10) <be>  
+You can reach me at Email | [mgchun2001@gmail.com](mailto:mgchun2001@gmail.com) <be>, LinkedIn | [www.linkedin.com/in/mgchun10](https://www.linkedin.com/in/mgchun10) <be>  
 Feel free to connect or collaborate!
 
 ---
