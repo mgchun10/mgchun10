@@ -1,8 +1,6 @@
 <div align=center><h1> 👋 Hi, I'm Man Geun Chun </h1></div>
 
-> 🎯 Aspiring Machine Learning Engineer • Software Developer passionate about building scalable, ethical AI systems and robust software solutions.
-
-<br>
+> 🎯 Aspiring Machine Learning Engineer • Software Developer passionate about building scalable, ethical AI systems and robust software solutions. <be>
 
 ---
 
